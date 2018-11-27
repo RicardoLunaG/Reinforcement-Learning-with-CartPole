@@ -15,10 +15,18 @@ Numpy
 
 Matplotlib
 
+## List of Algorithms
 
-### Installing
+Q Learning
+Sarsa
+Expected Sarsa
+DQN
+DQN with Target Network
+Double DQN
+Policy Gradient
+A2C
+PPO
 
-pip install -r requirements.txt
 
 ## License
 

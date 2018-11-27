@@ -18,13 +18,21 @@ Matplotlib
 ## List of Algorithms
 
 Q Learning
+
 Sarsa
+
 Expected Sarsa
+
 DQN
+
 DQN with Target Network
+
 Double DQN
+
 Policy Gradient
+
 A2C
+
 PPO
 
 

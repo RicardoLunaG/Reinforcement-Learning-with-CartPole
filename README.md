@@ -9,6 +9,8 @@ Python 3.5
 
 Tensorflow
 
+Tensorboard
+
 Gym
 
 Numpy

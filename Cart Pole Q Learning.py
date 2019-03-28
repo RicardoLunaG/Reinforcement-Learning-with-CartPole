@@ -13,7 +13,7 @@ discount = 1
 limiters = (1,1,6,12)
 
 Q = np.zeros(limiters+(env.action_space.n,)) 
-#As Q-Learning doesn't handle continous state spaces, discretization is neccesary
+#State space discreatization is neccesary for continous state spaces when tables are being used.
 def featureDiscretization(obs):
     up_bounds = [env.observation_space.high[0], 0.5,env.observation_space.high[2],math.radians(50)]
     low_bounds = [env.observation_space.low[0], -0.5,env.observation_space.low[2], -math.radians(50)]

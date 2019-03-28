@@ -19,7 +19,7 @@ Matplotlib
 
 ## List of Algorithms
 
-Q Learning
+[Q Learning](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/Cart%20Pole%20Q%20Learning.py)
 
 Sarsa
 

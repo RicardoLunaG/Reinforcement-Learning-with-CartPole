@@ -21,19 +21,19 @@ Matplotlib
 
 [Q Learning](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/Cart%20Pole%20Q%20Learning.py)
 
-Sarsa
+[Sarsa](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/Cart%20Pole%20Sarsa.py)
 
-Expected Sarsa
+[Expected Sarsa](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/CartPole%20Expected%20Sarsa.py)
 
-DQN
+[DQN](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/CartPoleDQN.py)
 
-DQN with Target Network
+[DQN with Target Network](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/CartPole%20DQN%20Target.py)
 
-Policy Gradient
+[Policy Gradient](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/CartPole%20Policy%20Gradient.py)
 
-A2C
+[A2C](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/A2C%20CartPole.py)
 
-PPO
+[PPO](https://github.com/RicardoLunaG/Reinforcement-Learning-with-CartPole/blob/master/PPO%20CartPole.py)
 
 
 

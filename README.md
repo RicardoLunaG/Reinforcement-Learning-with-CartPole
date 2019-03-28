@@ -29,8 +29,6 @@ DQN
 
 DQN with Target Network
 
-Double DQN
-
 Policy Gradient
 
 A2C

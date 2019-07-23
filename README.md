@@ -1,6 +1,6 @@
 # Reinforcement-Learning-with-CartPole
 
-Different Reinforcement Learning Algorithms using the CartPole Envioronment for Learning Purposes
+Different Reinforcement Learning Algorithms using the CartPole Environment for Learning Purposes
 
 
 ### Prerequisites

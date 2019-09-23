@@ -55,7 +55,7 @@ def main():
             state = new_state
             
 
-            print('Episode {}/{}  Reward: {}'.format(i,NUMBER_EPISODES,t))
+        print('Episode {}/{}  Reward: {}'.format(i,NUMBER_EPISODES,t))
 
 
     
